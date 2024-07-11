@@ -5,6 +5,7 @@ use std::{
     fmt,
     io::{Cursor, Write},
 };
+use std::collections::hash_map::Iter;
 
 use crate::components::{self};
 
@@ -178,6 +179,12 @@ pub struct DataComponentPatch {
 impl DataComponentPatch {
     pub fn get(&self, kind: DataComponentKind) -> Option<&dyn components::EncodableDataComponent> {
         self.components.get(&kind).and_then(|c| c.as_deref())
+    }
+}
+
+impl<'a, K, V> Into<Iter<'a, K, V>> for DataComponentPatch {
+    fn into(self) -> Iter<'a, K, V> {
+        self.components.iter()
     }
 }
 
