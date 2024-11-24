@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["death_event_on_0_health"],"mod":["configuration","game","login"],"struct":["PacketHandlerPlugin"]};

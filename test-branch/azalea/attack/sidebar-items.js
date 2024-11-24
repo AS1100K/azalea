@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_attack_strength_delay","get_attack_strength_scale","handle_attack_event","increment_ticks_since_last_attack","update_attack_strength_scale"],"struct":["AttackBundle","AttackEvent","AttackPlugin","AttackStrengthScale","TicksSinceLastAttack"]};

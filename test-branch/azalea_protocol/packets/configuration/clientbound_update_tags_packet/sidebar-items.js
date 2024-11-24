@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ClientboundUpdateTagsPacket","TagMap","Tags"]};

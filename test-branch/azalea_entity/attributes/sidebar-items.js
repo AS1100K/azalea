@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AttributeModifierOperation"],"fn":["base_attack_speed_modifier","sprinting_modifier"],"struct":["AlreadyPresentError","AttributeInstance","AttributeModifier","Attributes"]};

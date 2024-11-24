@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["StringArgument"],"fn":["get_string","greedy_string","string","word"]};
