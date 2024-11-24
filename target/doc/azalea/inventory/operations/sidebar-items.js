@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ClickOperation","ClickType","PickupClick","QuickCraftKind","QuickCraftStatus","QuickCraftStatusKind","QuickMoveClick","ThrowClick"],"struct":["CloneClick","PickupAllClick","QuickCraftClick","SwapClick"]};

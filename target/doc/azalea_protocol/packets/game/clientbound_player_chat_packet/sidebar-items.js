@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ChatType","FilterMask","PackedMessageSignature"],"struct":["ChatTypeBound","ClientboundPlayerChatPacket","MessageSignatureCache","PackedLastSeenMessages","PackedSignedMessageBody"]};

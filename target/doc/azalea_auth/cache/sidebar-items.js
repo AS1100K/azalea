@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["CacheError"],"fn":["get_account_in_cache","set_account_in_cache"],"struct":["CachedAccount","ExpiringValue"]};

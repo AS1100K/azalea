@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["suggestion_context"],"struct":["CommandContext","CommandContextBuilder","ParsedArgument","ParsedCommandNode","StringRange"]};

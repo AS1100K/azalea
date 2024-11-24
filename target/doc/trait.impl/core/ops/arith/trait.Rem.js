@@ -1,9 +1,0 @@
-(function() {
-    var implementors = Object.fromEntries([["azalea_core",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/arith/trait.Rem.html\" title=\"trait core::ops::arith::Rem\">Rem</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.f64.html\">f64</a>&gt; for <a class=\"struct\" href=\"azalea_core/position/struct.Vec3.html\" title=\"struct azalea_core::position::Vec3\">Vec3</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/arith/trait.Rem.html\" title=\"trait core::ops::arith::Rem\">Rem</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.i32.html\">i32</a>&gt; for <a class=\"struct\" href=\"azalea_core/position/struct.BlockPos.html\" title=\"struct azalea_core::position::BlockPos\">BlockPos</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/arith/trait.Rem.html\" title=\"trait core::ops::arith::Rem\">Rem</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.i32.html\">i32</a>&gt; for <a class=\"struct\" href=\"azalea_core/position/struct.ChunkSectionPos.html\" title=\"struct azalea_core::position::ChunkSectionPos\">ChunkSectionPos</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/arith/trait.Rem.html\" title=\"trait core::ops::arith::Rem\">Rem</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u8.html\">u8</a>&gt; for <a class=\"struct\" href=\"azalea_core/position/struct.ChunkSectionBlockPos.html\" title=\"struct azalea_core::position::ChunkSectionBlockPos\">ChunkSectionBlockPos</a>"]]]]);
-    if (window.register_implementors) {
-        window.register_implementors(implementors);
-    } else {
-        window.pending_implementors = implementors;
-    }
-})()
-//{"start":57,"fragment_lengths":[1612]}

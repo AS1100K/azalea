@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"derive":["Component","Resource"],"enum":["Event"],"struct":["Account","Client","GameTick"],"trait":["BotClientExt","Component","Resource"]};

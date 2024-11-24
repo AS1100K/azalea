@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ChatVisibility","HumanoidArm","ParticleStatus"],"struct":["ClientInformation","ModelCustomization","ServerboundClientInformationPacket"]};

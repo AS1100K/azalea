@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Particle"],"struct":["BlockParticle","DustColorTransitionParticle","DustParticle","ItemParticle","SculkChargeParticle","ShriekParticle","VibrationParticle"]};

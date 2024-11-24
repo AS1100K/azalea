@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Tier"],"fn":["get_item_tier"]};

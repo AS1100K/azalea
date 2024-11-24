@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ConnectionError"],"struct":["Connection","Proxy","RawReadConnection","RawWriteConnection","ReadConnection","WriteConnection"]};

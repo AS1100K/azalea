@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["PacketCompressError","PacketEncodeError"],"fn":["compression_encoder","serialize_packet","write_packet","write_raw_packet"]};

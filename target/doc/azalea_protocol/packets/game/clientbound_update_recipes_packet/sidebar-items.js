@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["SlotDisplayData"],"struct":["ClientboundUpdateRecipesPacket","CompositeSlotDisplay","Ingredient","ItemSlotDisplay","ItemStackSlotDisplay","RecipePropertySet","SelectableRecipe","SingleInputEntry","SmithingTrimDemoSlotDisplay","TagSlotDisplay","WithRemainderSlotDisplay"]};

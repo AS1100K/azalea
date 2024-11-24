@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ChatPacket","ChatPacketKind"],"fn":["handle_send_chat_event","handle_send_chat_kind_event"],"struct":["ChatPlugin","ChatReceivedEvent","SendChatEvent","SendChatKindEvent"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["BlockPos","ChunkBlockPos","ChunkPos","ChunkSectionBlockPos","ChunkSectionPos","GlobalPos","Vec3"]};

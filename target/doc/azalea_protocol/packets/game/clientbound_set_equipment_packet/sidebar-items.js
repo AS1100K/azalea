@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["EquipmentSlot"],"struct":["ClientboundSetEquipmentPacket","EquipmentSlots"]};

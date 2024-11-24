@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["handle_chunk_batch_finished_event","handle_chunk_batch_start_event","handle_receive_chunk_events"],"struct":["ChunkBatchFinishedEvent","ChunkBatchInfo","ChunkBatchStartEvent","ChunkPlugin","ChunkReceiveSpeedAccumulator","ReceiveChunkEvent"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["BlockShapeType","FluidPickType"],"fn":["clip","traverse_blocks"],"struct":["ClipContext","EntityCollisionContext"]};

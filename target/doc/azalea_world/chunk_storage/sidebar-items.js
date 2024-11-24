@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["calculate_chunk_storage_range","get_block_state_from_sections","in_range_for_view_center_and_radius","section_index"],"struct":["Chunk","ChunkStorage","PartialChunkStorage","Section"]};

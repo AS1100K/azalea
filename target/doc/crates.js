@@ -1,2 +1,0 @@
-window.ALL_CRATES = ["azalea","azalea_auth","azalea_block","azalea_block_macros","azalea_brigadier","azalea_buf","azalea_buf_macros","azalea_chat","azalea_client","azalea_core","azalea_crypto","azalea_entity","azalea_inventory","azalea_inventory_macros","azalea_language","azalea_physics","azalea_protocol","azalea_protocol_macros","azalea_registry","azalea_registry_macros","azalea_world"];
-//{"start":21,"fragment_lengths":[8,14,15,22,19,13,20,14,16,14,16,16,19,26,18,17,18,25,18,25,15]}

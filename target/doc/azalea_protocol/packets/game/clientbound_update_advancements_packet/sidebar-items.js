@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["FrameType"],"struct":["Advancement","AdvancementHolder","ClientboundUpdateAdvancementsPacket","CriterionProgress","DisplayInfo"],"type":["AdvancementProgress"]};

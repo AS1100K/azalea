@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["AttributeSnapshot","ClientboundUpdateAttributesPacket"]};

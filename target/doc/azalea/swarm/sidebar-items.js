@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["SwarmEvent"],"mod":["prelude"],"struct":["DefaultSwarmPlugins","NoSwarmState","Swarm","SwarmBuilder"],"type":["BoxSwarmHandleFn","SwarmHandleFn"]};

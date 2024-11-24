@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["PROTOCOL_VERSION"],"enum":["ClientIntention","ConnectionProtocol"],"mod":["common","configuration","game","handshaking","login","status"],"trait":["ProtocolPacket"]};

@@ -1,1 +1,0 @@
-searchState.loadedDescShard("azalea_block_macros", 0, "An internal crate used by <code>azalea_block</code>.")

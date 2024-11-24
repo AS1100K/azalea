@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["aabb","bitset","block_hit_result","cursor3d","delta","difficulty","direction","game_type","math","objectives","position","registry_holder","resource_location","tick","tier"]};

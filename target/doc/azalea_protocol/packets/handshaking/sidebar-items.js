@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ClientboundHandshakePacket","ServerboundHandshakePacket"],"mod":["client_intention_packet"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["SuggestionValue"],"struct":["Suggestion","Suggestions","SuggestionsBuilder"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"macro":["make_block_states"]};

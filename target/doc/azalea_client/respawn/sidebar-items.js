@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["perform_respawn"],"struct":["PerformRespawnEvent","RespawnPlugin"]};

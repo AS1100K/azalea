@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["a_star"],"struct":["Edge","Movement","Node","Path","Weight"]};
