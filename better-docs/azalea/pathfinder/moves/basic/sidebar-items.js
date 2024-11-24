@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ascend_is_reached","basic_move","descend_is_reached"]};

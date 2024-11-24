@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DiscreteVoxelShape","MoverType","VoxelShape"],"fn":["box_shape","box_shape_unchecked","move_colliding"],"static":["BLOCK_SHAPE","EMPTY_SHAPE"],"struct":["ArrayVoxelShape","BitSetDiscreteVoxelShape","CubePointRange","CubeVoxelShape","Shapes"],"trait":["BlockWithShape"],"traitalias":["IntLineConsumer"]};

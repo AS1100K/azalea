@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["bool_argument_type","double_argument_type","float_argument_type","integer_argument_type","long_argument_type","string_argument_type"],"trait":["ArgumentType"]};

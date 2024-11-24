@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["is_block_state_passable","is_block_state_solid"],"struct":["CachedSection","CachedSections","CachedWorld"]};

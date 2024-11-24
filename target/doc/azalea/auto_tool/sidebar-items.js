@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["accurate_best_tool_in_hotbar_for_block","best_tool_in_hotbar_for_block"],"struct":["BestToolResult"],"trait":["AutoToolClientExt"]};

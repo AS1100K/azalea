@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ai_step","jump_from_ground"],"mod":["clip","collision"],"struct":["PhysicsPlugin","PhysicsSet"]};

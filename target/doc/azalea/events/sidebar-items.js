@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Event"],"fn":["add_player_listener","chat_listener","death_listener","disconnect_listener","init_listener","keepalive_listener","login_listener","packet_listener","remove_player_listener","tick_listener","update_player_listener"],"struct":["EventPlugin","LocalPlayerEvents"]};

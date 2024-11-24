@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BlockIterator","ChunkIterator","SquareChunkIterator"]};

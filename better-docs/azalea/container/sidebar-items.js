@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ContainerHandle","ContainerHandleRef","ContainerPlugin","WaitingForInventoryOpen"],"trait":["ContainerClientExt"]};

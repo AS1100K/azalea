@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["McBuf","McBufReadable","McBufWritable"],"enum":["BufReadError"],"struct":["UnsizedByteArray"],"trait":["McBufReadable","McBufVarReadable","McBufVarWritable","McBufWritable","SerializableUuid"]};

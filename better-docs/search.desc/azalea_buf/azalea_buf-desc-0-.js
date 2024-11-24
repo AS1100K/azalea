@@ -1,0 +1,1 @@
+searchState.loadedDescShard("azalea_buf", 0, "Azalea Buf\nA <code>Vec&lt;u8&gt;</code> that isn’t prefixed by a VarInt with the size.\nReturns the argument unchanged.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nCalls <code>U::from(self)</code>.")

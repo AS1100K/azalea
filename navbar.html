@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Azalea Documentation</title>
+</head>
+<body>
+<div style="position:fixed;top:0;width:100%;background:#333;padding:10px;color:#fff;">
+<span>Azalea Docs</span>
+<select id="version-selector" style="float:right;padding:5px;" onchange="changeVersion(this.value)">
+<option value="main">main</option>
+<!-- Version options will be dynamically inserted here -->
+</select>
+</div>
+<script>
+function changeVersion(version) {
+window.location.href = `/${version}/index.html`;
+}
+</script>
+</body>
+</html>

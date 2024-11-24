@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["handle_send_packet_event","process_packet_events","send_packet_events"],"struct":["ConfigurationPacketEvent","SendConfigurationPacketEvent"]};

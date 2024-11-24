@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["default_is_reached","default_move"],"mod":["basic","parkour"],"struct":["ExecuteCtx","IsReachedCtx","MoveData","PathfinderCtx"],"type":["SuccessorsFn"]};

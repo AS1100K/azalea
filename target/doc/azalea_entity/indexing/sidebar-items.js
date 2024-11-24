@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["add_entity_to_indexes","insert_entity_chunk_position","remove_despawned_entities_from_indexes","update_entity_chunk_positions"],"struct":["EntityChunkPos","EntityIdIndex","EntityUuidIndex"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Anchor"],"struct":["AtEntity","ClientboundPlayerLookAtPacket"]};

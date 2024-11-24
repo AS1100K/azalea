@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["remove_components_from_disconnected_players"],"struct":["DisconnectEvent","DisconnectPlugin","IsConnectionAlive"]};

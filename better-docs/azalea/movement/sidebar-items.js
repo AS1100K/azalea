@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["KnockbackType","MovePlayerError","SprintDirection","WalkDirection"],"fn":["handle_knockback","handle_sprint","handle_walk","local_player_ai_step","send_position"],"struct":["KnockbackEvent","LastSentLookDirection","MoveEventsSet","PhysicsState","PlayerMovePlugin","StartSprintEvent","StartWalkEvent"]};

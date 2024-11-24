@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Mirror","Rotation","StructureMode","UpdateType"],"struct":["BytePosition","Flags","ServerboundSetStructureBlockPacket"]};

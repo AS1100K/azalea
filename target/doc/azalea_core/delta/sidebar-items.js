@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["McBuf"],"struct":["PositionDelta8"],"trait":["PositionDeltaTrait"]};
